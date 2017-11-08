@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/one"
+        android:title="via Amit Shekher"/>
+
+    <item
+        android:id="@+id/two"
+        android:title="via Bridge"/>
+
+    <item
+        android:id="@+id/three"
+        android:title="via Volley+"/>
+
+    <item
+        android:id="@+id/four"
+        android:title="via Retrofit"/>
+
+</menu>

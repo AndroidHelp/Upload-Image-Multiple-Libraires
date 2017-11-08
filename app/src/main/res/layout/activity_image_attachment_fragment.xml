@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".via_activity.Activity_ImageAttachment">
+
+    <fragment
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        class="com.example.hemantkatariya.imageuploading.via_fragment.Fragment_Attachment"
+        android:id="@+id/fragment"/>
+
+</LinearLayout>
